@@ -71,3 +71,5 @@ permalinks:
   page:
     posts: /posts/:contentbasename
 
+sitemap:
+  changeFreq: daily
