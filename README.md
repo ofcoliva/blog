@@ -27,12 +27,17 @@ git clone --recurse-submodules https://github.com/ofcoliva/blog.git
 cd blog
 ```
 
-3. Inicie o servidor de desenvolvimento:
+3. Clone o repositório do Hextra para themes
+```bash
+git clone https://github.com/imfing/hextra.git themes/hextra
+```
+
+4. Inicie o servidor de desenvolvimento:
 ```bash
 hugo server -D
 ```
 
-4. Acesse http://localhost:1313
+5. Acesse http://localhost:1313
 
 ## 📝 Criando Conteúdo
 
