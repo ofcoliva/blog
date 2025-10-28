@@ -1,0 +1,21 @@
+{{ $pages := where .Site.RegularPages "Section" "posts" }}
+{{ range $pages.ByDate }}
+
+<h3>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ with .Params.summary }} - {{ . }}{{ end }}
+    <small>
+        ({{
+        .Date.Format
+        "02 Jan 2006" }})
+    </small>
+    {{ end }}
+    <br>
+</h3>
+
+
+<style>
+    .post-titles {
+        color: white;
+    }
+</style>
