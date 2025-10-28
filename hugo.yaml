@@ -73,3 +73,8 @@ permalinks:
 
 sitemap:
   changeFreq: daily
+
+privacy:
+  youtube:
+    disable: false
+    privacyEnhanced: true
