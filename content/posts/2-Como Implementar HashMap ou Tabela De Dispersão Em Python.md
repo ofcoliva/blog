@@ -1,5 +1,5 @@
 ---
-title: 'Como Implementar HashMap ou Tabela De Dispersão Em Python'
+title: 'Como Implementar Sua Própria Tabela de Dispersão (HashMap) Utilizando Python'
 tags: ["python", "hashmap", "estrutura de dados"]
 draft: false
 date: 2025-11-08 00:00:00.000 -0300
