@@ -5,6 +5,5 @@ type: about
 
 ## ofcoliva
 
-Olá, me chamo Gabriel Oliva e criei este Blog para compartilhar o que eu aprendo
- e alguns projetos além de coisas do meu interesse. 
-Gosto muito de tecnologia apesar de eu ainda estar aprendendo.  Constantemente me vejo encantado com algo novo, minhas tecnologias atualmente são: Docker, Python, Java. Mas não sou muito preso em linguagem, quando der na telha eu vou querer aprender uma nova.
+Olá, me chamo Gabriel Oliva e criei este blog para compartilhar o que aprendo, alguns projetos e outras coisas do meu interesse. Gosto muito de tecnologia, mesmo ainda estando no processo de aprendizado. Constantemente me vejo encantado com algo novo.
+Com alguma frequência, vou criar posts aqui para ensinar e comentar sobre coisas que acho legais no mundo do desenvolvimento e da tecnologia.
